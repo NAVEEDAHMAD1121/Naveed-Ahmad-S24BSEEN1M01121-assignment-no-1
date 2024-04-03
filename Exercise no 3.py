@@ -1,6 +1,5 @@
-c=input("ENTER ANY WORD\n")
-
-print(c[0::2])
+string=input("ENter any string\n")
+print(string[::2])
 
 
 #Exercise number 3
